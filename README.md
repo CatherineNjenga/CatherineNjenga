@@ -6,7 +6,7 @@ I love being part of a diverse team building assessible, responsive and problem-
 
 ## My Projects
 
-* [Movie Card](https://github.com/CatherineNjenga/movie-card), a movies recommendation website based on Studio Ghibli API
+* [Movie Card](https://github.com/CatherineNjenga/movie-card), a movies recommendation website based on Studio Ghibli's API
 
 
 ## Courses I've Taken
