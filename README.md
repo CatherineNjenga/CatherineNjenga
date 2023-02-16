@@ -6,7 +6,7 @@ I love being part of a diverse team building assessible, responsive and problem-
 
 ## My Projects
 
-* [Cubey](https://github.com/CatherineNjenga/Cubey), a Star Wars' movies application website based on Star Wars API
+* [Cubey](https://github.com/CatherineNjenga/Cubey), a two-dimension "jump and run" platform game
 
 * [Star Wars](https://github.com/CatherineNjenga/StarWars), a Star Wars' movies application website based on Star Wars API
 
