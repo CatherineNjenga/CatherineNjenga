@@ -6,7 +6,9 @@ I love being part of a diverse team building assessible, responsive and problem-
 
 ## My Projects
 
-* [Movie Card](https://github.com/CatherineNjenga/movie-card), a movies recommendation website based on Studio Ghibli's API
+* [Cubey](https://github.com/CatherineNjenga/Cubey), a Star Wars' movies application website based on Star Wars API
+
+* [Star Wars](https://github.com/CatherineNjenga/StarWars), a Star Wars' movies application website based on Star Wars API
 
 
 ## Courses I've Taken
